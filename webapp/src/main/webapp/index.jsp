@@ -33,7 +33,7 @@
 
    <h1> Thankyou, Happy Learning - Orig Version</h1>
    <h1> Adding one more line here - superdaks!</h1>
-   <h1> Testing using Tomcat's public IP in Jenkins config</h1>
+   <h1> Testing using Tomcat's <b>PRIVATE IP</b> in Jenkins config</h1>
 
   
 </form>
