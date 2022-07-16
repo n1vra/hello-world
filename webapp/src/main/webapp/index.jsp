@@ -7,4 +7,5 @@
    <p>
    <h3> (Powered by Jenkins, Maven, Ansible and Docker)</h1>
 </center>
+</body>
 </html>
