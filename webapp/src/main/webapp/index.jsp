@@ -6,6 +6,6 @@
    <h2> Thanks for dropping by!...</h1>
    <p>
    <h3> (Powered by Jenkins, Maven, Ansible and Docker)</h1>
-</center>
+ </center>
 </body>
 </html>
